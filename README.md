@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **PHP, Laravel, MySQL, React.js, MERN Stack, Node.js, GCP, AWS**
 
-- 📫 How to reach me **monizairfan@example.com**
+- 📫 How to reach me **monizachughtai26@gmail.com**
 
 - ⚡ Fun fact **I love sports and always enjoy a good game.**
 
